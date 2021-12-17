@@ -1,8 +1,8 @@
 ﻿  Racing_Thread.cpp
-C:\Users\김도원\source\repos\Racing_Thread\Racing_Thread\Racing_Thread.cpp(50,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\김도원\source\repos\Racing_Thread\Racing_Thread\Racing_Thread.cpp(52,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\김도원\source\repos\Racing_Thread\Racing_Thread\Racing_Thread.cpp(59,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\김도원\source\repos\Racing_Thread\Racing_Thread\Racing_Thread.cpp(65,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\김도원\source\repos\Racing_Thread\Racing_Thread\Racing_Thread.cpp(67,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\김도원\source\repos\Racing_Thread\Racing_Thread\Racing_Thread.cpp(90,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  Racing_Thread.vcxproj -> C:\Users\김도원\source\repos\Racing_Thread\Debug\Racing_Thread.exe
+C:\Users\김도원\Documents\GitHub\MiniProject_HorseRacing\Racing_Thread\Racing_Thread\Racing_Thread.cpp(50,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\김도원\Documents\GitHub\MiniProject_HorseRacing\Racing_Thread\Racing_Thread\Racing_Thread.cpp(52,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\김도원\Documents\GitHub\MiniProject_HorseRacing\Racing_Thread\Racing_Thread\Racing_Thread.cpp(59,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\김도원\Documents\GitHub\MiniProject_HorseRacing\Racing_Thread\Racing_Thread\Racing_Thread.cpp(65,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\김도원\Documents\GitHub\MiniProject_HorseRacing\Racing_Thread\Racing_Thread\Racing_Thread.cpp(67,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\김도원\Documents\GitHub\MiniProject_HorseRacing\Racing_Thread\Racing_Thread\Racing_Thread.cpp(90,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Racing_Thread.vcxproj -> C:\Users\김도원\Documents\GitHub\MiniProject_HorseRacing\Racing_Thread\Debug\Racing_Thread.exe

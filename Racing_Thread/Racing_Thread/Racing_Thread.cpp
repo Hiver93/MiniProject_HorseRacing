@@ -286,7 +286,10 @@ public:
 		posY = y;
 		Graphic::Draw('%', 17, posY);
 	}
-	
+	~Horse()
+	{
+		run.detach();
+	}
 };
 
 class Commander
@@ -468,14 +471,9 @@ public:
 	}
 	~Commander()
 	{
-		for (int i = 0; i < 3; i++)
-		{
-			if (horses[i] != nullptr)
-			{
-				
-				delete horses[i];
-			}
-		}
+		delete horses[0];
+		delete horses[1];
+		delete horses[2];
 	}
 };
 
